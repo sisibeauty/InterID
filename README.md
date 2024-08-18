@@ -3,4 +3,5 @@ Code implementaion of InterID: Improving Multi-ID Interaction for Personalized I
 
 
 #run
+
 python inference.py
