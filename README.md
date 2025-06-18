@@ -1,4 +1,5 @@
-Code implementaion of InterID: Improving Multi-ID Interaction for Personalized Image Generation. Completed code and checkpoints are coming soon.
+Code implementaion of ICME 2025 InterID: Improving Multi-ID Interaction for Personalized Image Generation. 
+
 
 **#train**
 
@@ -16,5 +17,6 @@ bash train_llama_7b_continue_novel.sh
 
 python inference.py
 
-our checkpoint：
+**our checkpoint**
+
 链接: https://pan.baidu.com/s/1jqH8QFPigaDGWZvkii36Pg 提取码: 4wgi
