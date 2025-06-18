@@ -3,13 +3,13 @@ Code implementaion of ICME 2025 InterID: Improving Multi-ID Interaction for Pers
 
 **#train**
 
-personalization module:
+（1）personalization module:
 
 base model: SD v1.5
 
 bash train.sh
 
-LLM-based Pose Extractor:
+（2）LLM-based Pose Extractor:
 
 base model: Llama 7B
 
