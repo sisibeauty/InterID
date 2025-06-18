@@ -15,3 +15,6 @@ bash train_llama_7b_continue_novel.sh
 **#inference**
 
 python inference.py
+
+our checkpoint：
+链接: https://pan.baidu.com/s/1jqH8QFPigaDGWZvkii36Pg 提取码: 4wgi
