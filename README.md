@@ -9,11 +9,11 @@ base model: SD v1.5
 
 bash train.sh
 
-（2）LLM-based Pose Extractor:
+（2）LLM-based Prior Extractor:
 
 base model: Llama 7B
 
-cd LLM-based_Pose_Extractor
+cd LLM-based_Prior_Extractor
 
 bash train_llama_7b_continue_novel.sh
 
